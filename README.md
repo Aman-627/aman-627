@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Kalyankar</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **game development , cybersecurity**
+- 🌱 I’m currently learning **game development , cybersecurity and Web Dev**
 
 - 📫 How to reach me **amankalyankar01@gmail.com**
 
