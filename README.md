@@ -5,8 +5,7 @@
 
 - 🌱 Currently learning **Game Development** & **Full-Stack Web Development**  
 - 📫 Reach me at: **amankalyankar01@gmail.com**  
-- ⚡ Always improving, always building
-
+- ⚡trying to do/be better
 ---
 
 ### 🛠️ Tools & Languages I Use
@@ -14,7 +13,8 @@
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="40" height="40"/>
+
 
 </p>
 
