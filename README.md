@@ -4,7 +4,7 @@
 </p>
 
 - 🌱 Currently learning **Game Development** & **Full-Stack Web Development**  
-- 📫 Reach me at: **amankalyankar01@gmail.com**  
+- 📫 Reach me at: **amankalyankar06@gmail.com**  
 - ⚡trying to do/be better
 ---
 
