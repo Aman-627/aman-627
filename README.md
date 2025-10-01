@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Aman Kalyankar</h1>
+<h1 align="center">Hi , I'm Aman </h1>
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="coding-gif"/>
 </p>
 
-- 🌱 Currently learning **Game Development** & **Full-Stack Web Development**  
+- 🌱 Currently a *Student* and a Full-Stack Webdev & Gamedev enthusiast
+  
 - 📫 Reach me at: **amankalyankar06@gmail.com**  
 - ⚡trying to do/be better
 ---
