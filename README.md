@@ -3,7 +3,7 @@
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="coding-gif"/>
 </p>
 
-- 🌱 Currently a *Student* and a Full-Stack Webdev & Gamedev enthusiast
+- 🌱 A *Student* and a Full-Stack Webdev & Gamedev enthusiast
   
 - 📫 Reach me at: **amankalyankar06@gmail.com**  
 - ⚡trying to do/be better
